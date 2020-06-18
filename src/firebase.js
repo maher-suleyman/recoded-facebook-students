@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "PUT_API_KEY_HERE",
+  apiKey: "AIzaSyDPFwcO5W4cSdCIBU4zYSWd2Hsi52CLNQs",
   authDomain: "recodedfacebook.firebaseapp.com",
   databaseURL: "https://recodedfacebook.firebaseio.com",
   projectId: "recodedfacebook",
