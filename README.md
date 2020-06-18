@@ -76,3 +76,6 @@ I realize these are fairly strict rules, but you will have to give some trust to
 - **No asking a human questions on how to fix something.** The only exception is in the first class if you have some setup issues on your machine; for some reason the app is not running.
 - **No sharing of code.** No one should ever see your code (valuable intellectual property) unless both people have completed the activity.
 - **No sharing of approaches.** There should be no discussion about how someone did this or that, unless both people have completed the activity.
+
+# Result:
+https://recodedfacebook.web.app/facebook
